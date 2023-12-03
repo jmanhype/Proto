@@ -1,0 +1,16 @@
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 93. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 13. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 16. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 16. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 15. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 12. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 12. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 16. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 13. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 14. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 15. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 18. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - engine system failed to synthesize sentence "She had sparkling blue eyes, golden curls, and a heart full of curiosity." with error: 
+RealTimeSTT: root - WARNING - engine system is the only engine available, can't switch to another engine
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 13. Discarding old audio chunks.
+RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 15. Discarding old audio chunks.
