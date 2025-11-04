@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Credentials and secrets
+*.json
+!models/**/*.json
+!package.json
+!tsconfig.json
+third-harbor-*.json
+credentials.json
+.env
+.env.local
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+!test_audio.wav
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files
+*.gguf
+llm/models/*.gguf
+
+# Temporary files
+tmp.*
+temp.*
